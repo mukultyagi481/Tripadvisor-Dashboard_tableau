@@ -1,6 +1,7 @@
-# 🏨 Tripadvisor Hotel Insights Dashboard
+# 🏨 Tripadvisor Hotel Insights Dashboard 
 An interactive and visually rich Tableau dashboard built to analyze hotel performance, user behavior, and service trends based on Tripadvisor data. This project offers actionable insights to hospitality stakeholders by exploring hotel amenities, guest demographics, seasonal patterns, and travel preferences.
 
+[Visit My Tableau](https://public.tableau.com/app/profile/mukul.kumar.tyagi/viz/Tripadvisor_Dashboard_17436264988490/Dashboard1)
 
 # 📌 Project Summary
 This project focuses on uncovering trends from Tripadvisor hotel reviews and listings using Tableau. The dashboard visualizes patterns in:
